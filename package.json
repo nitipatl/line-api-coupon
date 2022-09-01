@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "sass": "^1.54.8",
+    "vite": "^3.0.9"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "@vitejs/plugin-vue": "^3.0.3",
+    "bootstrap": "^5.2.0",
+    "redaxios": "^0.5.1",
+    "vue": "^3.2.38",
+    "vue-sweetalert2": "^5.0.5"
+  }
+}
