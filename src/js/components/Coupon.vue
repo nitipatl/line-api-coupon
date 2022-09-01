@@ -1,6 +1,6 @@
 <template>
   <div class="container text-center">
-      <img src="https://vos.line-scdn.net/strapi-cluster-instance-bucket-83/image_e72b33b56d.svg" class="img-responsive">
+      <img src="https://vos.line-scdn.net/strapi-cluster-instance-bucket-83/image_e72b33b56d.svg" class="img-fluid">
       <div v-if="!isLoading">
         <input type="couponcode" class="form-control text-center mb-2" placeholder="Coupon Code" v-model="coupon">
         <button type="submit" class="btn btn-success w-100" @click="redeem">Redeem</button>
