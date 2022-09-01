@@ -33,7 +33,7 @@ export default {
       }
       this.isLoading = true
       axios.post(import.meta.env.VITE_API_ENDPOINT_URL, {
-        coupon: this.coupon
+        code: this.coupon
       }).then(result => {
         this.isLoading = false
         if (result.data.result === 'pass') {
