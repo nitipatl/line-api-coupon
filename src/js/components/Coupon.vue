@@ -3,7 +3,7 @@
       <img src="/assets/line-dev-logo.png" class="img-fluid">
       <img src="/assets/logo.png" class="img-fluid">
       
-      <div class="card p-2">
+      <div class="card p-2 border-0">
         <div class="card-body">
           <p>
           <b><span style="color:green">ยินดีต้อนรับสู่บูธ</span> <span style="color:blue">LINE SHOPPING API</span></b>
@@ -19,7 +19,7 @@
           </p>
         </div>
       </div>
-      <div class="card mt-2 p-2">
+      <div class="card mt-2 p-2 border-0">
         <img src="/assets/step-01.png" class="card-img-top">
         <div class="card-body">
           <p class="card-text">
@@ -32,7 +32,7 @@
           </p>
         </div>
       </div>
-      <div class="card mt-2 p-2">
+      <div class="card mt-2 p-2 border-0">
         <img src="/assets/step-02.png" class="card-img-top">
         <div class="card-body">
           <p class="card-text">
@@ -51,7 +51,7 @@
           <span class="visually-hidden">Loading...</span>
         </div>
       </div>
-      <div class="card mt-2 p-2">
+      <div class="card mt-2 p-2 border-0">
         <a href="https://feedback.line.me/enquete/public/16977-STbvntks" target="blank">ลงทะเบียนเพื่อเปิดใช้งาน API กับร้านของคุณได้ที่นี่</a> หรือ <a href="https://oaplus.line.biz/information/api-doc">ศึกษา API Document ได้ที่นี่ครับ</a>
 <br /><b>ขอบคุณที่มาเยี่ยมชมครับ</b>
       </div>
