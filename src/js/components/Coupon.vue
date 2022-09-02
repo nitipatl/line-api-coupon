@@ -1,7 +1,7 @@
 <template>
   <div class="container text-center mobile">
-      <img src="/images/line-dev-logo.png" class="img-fluid">
-      <img src="/images/logo.png" class="img-fluid">
+      <img src="/assets/line-dev-logo.png" class="img-fluid">
+      <img src="/assets/logo.png" class="img-fluid">
       
       <div class="card p-2">
         <div class="card-body">
@@ -20,7 +20,7 @@
         </div>
       </div>
       <div class="card mt-2 p-2">
-        <img src="images/step-01.png" class="card-img-top">
+        <img src="/assets/step-01.png" class="card-img-top">
         <div class="card-body">
           <p class="card-text">
             เข้าไปซื้อ Digital code ที่ร้านของ LINE SHOPPING API บน LINE SHOPPING<br />
@@ -33,7 +33,7 @@
         </div>
       </div>
       <div class="card mt-2 p-2">
-        <img src="images/step-02.png" class="card-img-top">
+        <img src="/assets/step-02.png" class="card-img-top">
         <div class="card-body">
           <p class="card-text">
             copy code ของคุณ แล้วนำมา paste ที่นี่<br />
